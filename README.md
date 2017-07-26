@@ -3,13 +3,12 @@
 This is Kannada book font inspired from Brindavana press book font, so is the name of the font.
 
 # Weights
-Regular
-**Bold**
-# Style
-Normal
-_Italics_
+Regular, **Bold**
 
-Font files count: 2 
+# Styles
+Normal, _Italics_
+
+# Font files count: 2 
 Regular, Bold (Normal/Italics featured)
 
 # Usage
